@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">spiral drawer 3d</string>
+    <string name="rotate_Y">Поворот Y</string>
+    <string name="rotate_X">Поворот X</string>
+    <string name="rotate_Z">Поворот Z</string>
+    <string name="scaling">Масштабирование</string>
+
+</resources>
